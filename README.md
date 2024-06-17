@@ -9,3 +9,5 @@
 #### [Library System 2.0 (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/Library%20System%202.0)
 
 #### [Movie Booking System (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/Movie%20Booking%20System)
+
+#### [Online Shopping Cart System (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/Online%20shopping%20cart%20system)
