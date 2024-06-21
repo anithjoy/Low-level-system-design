@@ -14,4 +14,4 @@
 
 #### [University Management System (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/University%20Management%20System)
 
-#### [University Management System (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/Hotel%20Management%20System)
+#### [Hotel Management System (level - Beginner)](https://github.com/anithjoy/Low-level-system-design/tree/main/Hotel%20Management%20System)
